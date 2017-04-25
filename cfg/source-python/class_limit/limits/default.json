@@ -1,0 +1,38 @@
+{
+  "scout": {
+    "type": "percentage",
+    "limit": 33
+  },
+  "soldier": {
+    "type": "percentage",
+    "limit": 50
+  },
+  "pyro": {
+    "type": "percentage",
+    "limit": 33
+  },
+  "demo": {
+    "type": "percentage",
+    "limit": 33
+  },
+  "heavy": {
+    "type": "percentage",
+    "limit": 50
+  },
+  "engineer": {
+    "type": "percentage",
+    "limit": 33
+  },
+  "medic": {
+    "type": "percentage",
+    "limit": 100
+  },
+  "sniper": {
+    "type": "percentage",
+    "limit": 10
+  },
+  "spy": {
+    "type": "percentage",
+    "limit": 10
+  }
+}
